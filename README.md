@@ -177,47 +177,98 @@ Experience with
 
 # 🧩 Featured Projects
 
-### 🔥 Forest Fire Prediction System
+### 🛒 Animal_Kart
 
-Machine learning system that predicts wildfire risk using environmental data.
+A **modern digital marketplace platform** designed for buying and selling livestock and related agricultural products with a user-friendly interface.
 
-Tech
+**Key Features**
 
 ```
-Python
-Machine Learning
-Flask
-Data Analysis
+Livestock Marketplace
+Product Listings
+Seller & Buyer Management
+Modern Responsive UI
 ```
 
----
-
-### 🛒 React Shopping App
-
-Modern e-commerce frontend built using React.
-
-Tech
+**Tech Stack**
 
 ```
 React
 JavaScript
-Component Architecture
-CSS
+Node.js
+MongoDB
 ```
 
 ---
 
-### 💼 Freelancing Marketplace
+### 🌾 TruHarvest
 
-Full-stack platform connecting freelancers and clients.
+An **AI-driven agriculture platform** designed to assist farmers with crop insights, digital tools, and smarter farming decisions.
 
-Tech
+**Key Features**
 
 ```
-JSP
-Servlets
+Agriculture Data Insights
+Farm Management System
+Smart Crop Monitoring
+AI-assisted Decision Support
+```
+
+**Tech Stack**
+
+```
+React
+Node.js
+MongoDB
+Cloud Services
+```
+
+---
+
+### 🥛 AbsoluteMilk
+
+A **digital dairy management platform** built to streamline milk collection, supply tracking, and customer management for dairy businesses.
+
+**Key Features**
+
+```
+Milk Collection Management
+Supply Chain Tracking
+Customer Management
+Data Monitoring Dashboard
+```
+
+**Tech Stack**
+
+```
+React
+Node.js
+MongoDB
+REST APIs
+```
+
+---
+
+### 🎓 Smart_Attendance
+
+A **smart attendance management system** designed to track and manage student attendance efficiently with automated data handling.
+
+**Key Features**
+
+```
+Automated Attendance Tracking
+Student Record Management
+Attendance Analytics
+Secure Data Storage
+```
+
+**Tech Stack**
+
+```
+Java
+Spring Framework
 MySQL
-Bootstrap
+Web Interface
 ```
 
 ---
